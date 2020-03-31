@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TARpv19_Oleg_Kruglov", "TARpv19_Oleg_Kruglov\TARpv19_Oleg_Kruglov.csproj", "{34F17850-AB26-421F-A454-2906ED38009A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F17850-AB26-421F-A454-2906ED38009A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F17850-AB26-421F-A454-2906ED38009A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F17850-AB26-421F-A454-2906ED38009A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F17850-AB26-421F-A454-2906ED38009A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A42397-07FD-486D-8486-CEDCF9F27D1C}
+	EndGlobalSection
+EndGlobal
